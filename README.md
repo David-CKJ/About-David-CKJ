@@ -1,4 +1,5 @@
 ## About Me
-- Hello!
-- ni hao!
-- Salut!
+- Hello! *english*
+- ni hao! *chinese pinyin*
+- Salut! *french*
+
