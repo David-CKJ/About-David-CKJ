@@ -2,6 +2,5 @@
 - Hello! *english*
 - ni hao! *chinese pinyin*
 - Salut! *french*
-
-- vanakum *tamil*
+- vanakum! *tamil*
 
